@@ -1,4 +1,4 @@
-name: Python 3.11.9
+name: Python ${{ matrix.python-version }}
 on: [push]
 jobs:
   build:

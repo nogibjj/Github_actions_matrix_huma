@@ -3,7 +3,7 @@
 # Github Actions Matrix Build 
 This is the fifth Assignment for Data Engineering on Github Actions Matrix Build for Multiple Python Versions.
 
-This code is run for 5 different versions of Python: **3.7, 3.8, 3.9, 3.11, 3.12**. GitHub Actions Matrix is configured to automate testing across multiple Python versions. The matrix is set up to test the code compatibility with Python versions 3.7, 3.8, 3.9, 3.11, and 3.12. Each time a change is pushed to the repository, the GitHub Actions workflow is triggered to ensure the code runs correctly on all specified Python versions.
+This code is run for 5 different versions of Python: **3.7, 3.8, 3.9, 3.11, 3.12**. GitHub Actions Matrix is configured to automate testing across multiple Python versions. The matrix is set up to test the code compatibility with Python versions. Each time a change is pushed to the repository, the GitHub Actions workflow is triggered to ensure the code runs correctly on all specified Python versions.
 
 ![GitHub Actions Workflow](matix_python_version-ezgif.com-video-to-gif-converter.gif)
 
